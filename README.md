@@ -1,4 +1,4 @@
-# my-codex-seetings
+# my-codex-settings
 
 工具安装
 安装一套Codex 友好的基础工具
