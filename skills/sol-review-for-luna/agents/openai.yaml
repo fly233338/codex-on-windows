@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sol Review for Luna"
+  short_description: "Validate reviews and revise plans for Luna agents"
+  default_prompt: "Use $sol-review-for-luna to validate this review against docs/PLAN.md and the current repository, then produce the next implementation plan for Luna."
+policy:
+  allow_implicit_invocation: true
