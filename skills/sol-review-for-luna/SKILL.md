@@ -1,9 +1,3 @@
-# SKILL.md
-这里是 Luna 计划评审技能的 Markdown 代码副本。
-
-## Markdown 内容
-
-````markdown
 ---
 
 name: sol-review-for-luna
@@ -98,4 +92,3 @@ description: 根据 docs/PLAN.md 和当前仓库验证用户要求的评审内�
 - 会影响结论可信度的验证限制。
 
 不要输出完整的内部需求矩阵。
-````

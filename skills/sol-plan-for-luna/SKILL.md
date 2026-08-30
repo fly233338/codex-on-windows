@@ -1,9 +1,3 @@
-# SKILL.md
-这里是 Luna 实施计划技能的 Markdown 代码副本。
-
-## Markdown 内容
-
-````markdown
 ---
 
 name: sol-plan-for-luna
@@ -77,4 +71,3 @@ description: 当用户明确要求为另一个在 Plan Mode 下工作的 Luna �
 - Explicit Non-Changes。
 
 计划必须简洁、完整，并且直接面向负责实施的工作代理。
-````

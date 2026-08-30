@@ -1,7 +1,4 @@
-# tools.md
-这里是 Windows Codex 基础工具安装命令的 Markdown 代码副本。
-
-## Markdown 内容
+## 工具
 
 ````markdown
 # Tools

@@ -1,9 +1,3 @@
-# SKILL.md
-这里是 npm 发布技能的 Markdown 代码副本。
-
-## Markdown 内容
-
-````markdown
 ---
 name: npm-publish
 description: Publish this project to the official npm registry when the user explicitly requests an npm release. Covers repository gates, validation, authentication, publication, and verification.
@@ -31,4 +25,3 @@ description: Publish this project to the official npm registry when the user exp
    `npm view <package> dist-tags --json --registry=https://registry.npmjs.org/`
 
 只暂存本次产生的文件或 hunk。若未提交修改阻止分支切换，不要 stash、reset 或覆盖用户文件；只有在已获合并授权且确认是严格快进时，才采用不触碰工作区的快进方式，否则询问用户。
-````
